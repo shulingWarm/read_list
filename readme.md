@@ -1,3 +1,9 @@
+长文本的高效KV cache管理框架: https://mp.weixin.qq.com/s/JJ-USN4-mDpsKEUdYQ893g
+
+压缩长文本推理的方法，deepseek ocr在模型架构层面解决这个问题：https://mp.weixin.qq.com/s/I7-5S-4T-gr0S9pdqB5JQg
+
+新的agent记忆管理框架： https://mp.weixin.qq.com/s/a030XuwxVrVZBbrR8qfxNQ
+
 SAIT 加拿大分区用7M 小模型实现的接近LLM的推理效果
 https://mp.weixin.qq.com/s/Cw9IO6AW9GEfOffTqTcwdQ
 

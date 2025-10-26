@@ -4,6 +4,15 @@
 
 新的agent记忆管理框架： https://mp.weixin.qq.com/s/a030XuwxVrVZBbrR8qfxNQ
 
+图像编辑的数据集
+https://mp.weixin.qq.com/s/G3Ie4_WDG41e12Vq0aH0bw
+
+训练方法上的优化，自回归奖励引导
+https://mp.weixin.qq.com/s/v-c1H8dD7HN6CPT8LWJqcw
+
+另一种扩散模型的推理框架
+https://mp.weixin.qq.com/s/ttg0Bd5BPSoNd_vVYRtweg
+
 SAIT 加拿大分区用7M 小模型实现的接近LLM的推理效果
 https://mp.weixin.qq.com/s/Cw9IO6AW9GEfOffTqTcwdQ
 
@@ -18,6 +27,15 @@ https://mp.weixin.qq.com/s/Cdo2i96b6_JOaSKEigEsKA
 
 半在线强化学习
 https://mp.weixin.qq.com/s/2TJQfL5NUMYt5CfwdrQHDg
+
+判别式监督学习的GRPO
+https://mp.weixin.qq.com/s/gmvJx4C_OaVvA-0zm_vbyg
+
+宣布超越nano banana的方案
+https://mp.weixin.qq.com/s/Wl-6rZn9zJNwOQkRp0A1Eg
+
+用来革新transformer的架构
+https://mp.weixin.qq.com/s/mEpGIGn2CnNTy1qdxQv0EQ
 
 低成本的GRPO训练方法
 https://mp.weixin.qq.com/s/M6AR3py1zTm26QMQq_L3Zg

@@ -4,6 +4,16 @@
 
 新的agent记忆管理框架： https://mp.weixin.qq.com/s/a030XuwxVrVZBbrR8qfxNQ
 
+做自动游戏智能体的工具：https://mp.weixin.qq.com/s/ej3RFzvXXBOQoODIB-lAoA
+
+大多模态模型里面移除VAE的方法：https://mp.weixin.qq.com/s/w-nnJMoqdUQW5Kwlw0saVQ
+
+复杂室内环境实时探索重建: https://mp.weixin.qq.com/s/0xk_Jlj76YjcCRhXb5pMSQ
+
+解决3dgs重建伪影的方法： https://mp.weixin.qq.com/s/h8j-htU6eBnlhbyJFnp_Qg
+
+Nvidia提供的cuda SFM: https://mp.weixin.qq.com/s/M-bOr4WoaKdiew_koWvOAg
+
 图像编辑的数据集
 https://mp.weixin.qq.com/s/G3Ie4_WDG41e12Vq0aH0bw
 

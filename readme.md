@@ -2,11 +2,29 @@
 
 压缩长文本推理的方法，deepseek ocr在模型架构层面解决这个问题：https://mp.weixin.qq.com/s/I7-5S-4T-gr0S9pdqB5JQg
 
+将三维重建和理解融合到一个transformer模型里面：https://mp.weixin.qq.com/s/rT8C2tsPMpRG24vy5AZ84A
+
+NanoBanana 赛道的新SOTA
+https://mp.weixin.qq.com/s/MnnqP4KKdcqLIb6116HZaw
+
+降低微调显存消耗的技术
+https://mp.weixin.qq.com/s/cNk68HrnBaVDABbsCGl4NQ
+
+带思考过程的视频理解
+https://mp.weixin.qq.com/s/ssdSYXxi8RAOuIVW33lWIg
+
+推翻预测一个token的模式
+https://mp.weixin.qq.com/s/PyqATWx3qKp1de-YZceQMw
+
 新的agent记忆管理框架： https://mp.weixin.qq.com/s/a030XuwxVrVZBbrR8qfxNQ
+
+效果不错的美团多模态融合模型： https://mp.weixin.qq.com/s/Aia058is0yR9vfA_Yoypwg
 
 做自动游戏智能体的工具：https://mp.weixin.qq.com/s/ej3RFzvXXBOQoODIB-lAoA
 
 大多模态模型里面移除VAE的方法：https://mp.weixin.qq.com/s/w-nnJMoqdUQW5Kwlw0saVQ
+
+新的注意力架构，主要是为了加速：https://mp.weixin.qq.com/s/ZY1ioXGbABXVDuD8iGeDSQ
 
 复杂室内环境实时探索重建: https://mp.weixin.qq.com/s/0xk_Jlj76YjcCRhXb5pMSQ
 
@@ -43,6 +61,9 @@ https://mp.weixin.qq.com/s/gmvJx4C_OaVvA-0zm_vbyg
 
 宣布超越nano banana的方案
 https://mp.weixin.qq.com/s/Wl-6rZn9zJNwOQkRp0A1Eg
+
+AI科学家
+https://mp.weixin.qq.com/s/PV45QMTM2AMnDz-pAHIzyA
 
 用来革新transformer的架构
 https://mp.weixin.qq.com/s/mEpGIGn2CnNTy1qdxQv0EQ

@@ -2,6 +2,10 @@
 
 压缩长文本推理的方法，deepseek ocr在模型架构层面解决这个问题：https://mp.weixin.qq.com/s/I7-5S-4T-gr0S9pdqB5JQg
 
+带分割的单独重建: https://mp.weixin.qq.com/s/GlJT6PGjXIo2Bye23E1Qvw
+
+不让diffusion模型恢复噪声，而是直接预测图片: https://mp.weixin.qq.com/s/46G0lHCelXWInH4qSxu3Rg
+
 将三维重建和理解融合到一个transformer模型里面：https://mp.weixin.qq.com/s/rT8C2tsPMpRG24vy5AZ84A
 
 NanoBanana 赛道的新SOTA

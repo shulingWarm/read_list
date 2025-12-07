@@ -2,6 +2,12 @@
 
 压缩长文本推理的方法，deepseek ocr在模型架构层面解决这个问题：https://mp.weixin.qq.com/s/I7-5S-4T-gr0S9pdqB5JQg
 
+transformer 架构革新，扩展模型推理长度
+https://mp.weixin.qq.com/s/vvJmucsgPX_a1xCjny0cNg
+
+NeurIPS最佳论文 Qwen的注意力革新 
+https://mp.weixin.qq.com/s/ynOr-tGjPVVikg4HJMfk_A
+
 带分割的单独重建: https://mp.weixin.qq.com/s/GlJT6PGjXIo2Bye23E1Qvw
 
 不让diffusion模型恢复噪声，而是直接预测图片: https://mp.weixin.qq.com/s/46G0lHCelXWInH4qSxu3Rg

@@ -8,6 +8,15 @@ https://mp.weixin.qq.com/s/vvJmucsgPX_a1xCjny0cNg
 NeurIPS最佳论文 Qwen的注意力革新 
 https://mp.weixin.qq.com/s/ynOr-tGjPVVikg4HJMfk_A
 
+超大场景的三维高斯，处理内存墙用的
+https://mp.weixin.qq.com/s/iS3nmqiegHifjofr1U_r9w
+
+摩尔线程的野心 
+https://mp.weixin.qq.com/s/c3V0SznZchJS9rm8V6Rtag
+
+四维的重建能力
+https://mp.weixin.qq.com/s/7kJndCst4jP4NqQtOjGRGw
+
 带分割的单独重建: https://mp.weixin.qq.com/s/GlJT6PGjXIo2Bye23E1Qvw
 
 不让diffusion模型恢复噪声，而是直接预测图片: https://mp.weixin.qq.com/s/46G0lHCelXWInH4qSxu3Rg
